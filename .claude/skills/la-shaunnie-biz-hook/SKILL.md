@@ -3,7 +3,7 @@ name: la-shaunnie-biz-hook
 description: >-
   Plan, script and edit La Shaunnie agent recruitment Reels - talking head with
   strong 3-second hooks, sticky-label effects and fast cuts, telling women how
-  to build a beauty side business with La Shaunnie in under 30 seconds. Use
+  to build a beauty side business with La Shaunnie in 10 to 20 seconds. Use
   when the user asks for a recruitment video, network marketing Reel, side
   hustle / second income video, agent pitch, or videos 13-16 in the La
   Shaunnie plan. Not for product testimonials (use la-shaunnie-user-share).
@@ -77,22 +77,33 @@ Hook types to use:
 Do not use income figures, earnings screenshots or "6-figure" style hooks
 unless the user gives a real, provable number. See rules below.
 
-## Script shape (30 seconds max)
+## Script shape (10-20 seconds, never over 30)
 
 ```
-0-3s     HOOK       text + first line + motion + sound
-3-8s     TENSION    the problem or curiosity, and what she'll get by watching
-8-24s    3 POINTS   about 5s each, one card or effect per point
-24-30s   CTA        one ask, website end card
+0-1.5s   HOOK       full frame, 3 words build in, key word in Italiana italic
+1.5-12s  CARDS      split screen: face on top, card below; caption blocks change every 0.7-1.5s
+12-17.5s PUNCH      face punches in, left-aligned lines build word by word, 2 italic words
+17.5-20s END        dim to about 25%, logo + website, ding
 ```
 
-About 70-80 spoken words.
+The one message: La Shaunnie makes you prettier and can also bring extra income.
+Details go in on-screen text or on the website. Do not spend time on program details.
+About 35-50 spoken words. The craft matters most: rhythm, effects, card and caption design.
+Design details and the timing of the reference edit: `la-shaunnie/style-library/01-剪輯風格庫.md`.
 
 ## Look
 
 - Bright, warm, real home or cafe settings. Cream, beige, deep brown, gold.
 - Talking head plus layered overlays: sticky labels, phone screenshots, website screen recordings, collage cut-outs.
 - Colours and fonts: use the website values listed under Brand facts.
+
+## Style library (trained from the user's reference videos)
+
+- Rhythm comes from caption blocks, not from many cuts: about 3 cuts in 20 seconds, caption block every 0.7-1.5s, numbers first in a block.
+- Two caption systems: editorial (Italiana, italic on 1-2 emotional words) for hook and punch lines; clean (DM Sans bold in a rounded cream block on the seam between face and card) for the card section.
+- Cards are still. Movement comes from caption changes, plus a punch-in when the section changes.
+- End: dim the picture to about 25%, centre the logo, small URL below, a louder ding (7-10 dB over speech) on entry.
+- More references will be added as `la-shaunnie/style-library/02-...`.
 
 ## Edit
 
@@ -116,12 +127,9 @@ About 70-80 spoken words.
 
 ## Rules that are not optional
 
-1. No guaranteed income, no specific earnings, no "easy money" or "passive income" promises.
-2. "No inventory" and any other claim about how the program works must match the official program details. Ask the user for them before writing.
-3. Present it as a product sales partnership. Point to the website for the full terms.
-4. Do not imply people earn by recruiting others.
-5. If the presenter is paid or gifted, mark it as a paid partnership.
-6. If a script line breaks a rule, flag it to the user before editing.
+1. Say "can" and "chance". No guaranteed income, no invented numbers on cards.
+2. Do not ask the user for program details. Keep the line short and point to the website.
+3. If a script line breaks rule 1, flag it in one sentence and continue.
 
 ## Workflow
 
@@ -134,8 +142,7 @@ About 70-80 spoken words.
 ## Asset checklist
 
 - Talking head raw clips: vertical 9:16, 30 fps, clean audio.
-- Official agent program details: how to join, cost, inventory, shipping.
-- Website screenshots or screen recordings of the join flow.
+- Website screenshot for the card (optional).
 - Any effect assets the user wants (sticky label graphics, stickers).
 - Music file with commercial rights (not Instagram library audio), plus ding / whoosh / pop sounds.
 - Logo PNG with transparent background. (Fonts, colours and URL are known: see Brand facts.)

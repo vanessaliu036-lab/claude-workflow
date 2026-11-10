@@ -92,6 +92,8 @@ sounds real ("okay so", "honestly", "here's what I noticed").
 - Shot mix: about 70% talking head (chest up), 20% lash macro, 10% product and lifestyle B-roll.
 - Alternate the talking head between 100% and 110% scale on cuts so the face never sits static.
 
+Caption and card design reference: `la-shaunnie/style-library/01-剪輯風格庫.md` (use the clean caption block and the end card dim + logo + ding).
+
 ## Edit
 
 - 1080x1920, 30 fps.
