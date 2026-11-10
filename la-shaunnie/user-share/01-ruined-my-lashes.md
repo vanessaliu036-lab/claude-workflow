@@ -1,37 +1,37 @@
-# La Shaunnie User Share 01: I ruined my natural lashes
+# La Shaunnie 用戶分享 01:I ruined my natural lashes
 
-| Item | Detail |
+| 項目 | 內容 |
 |---|---|
-| Series | A (relatable pain): slowest pace, most like a chat |
-| Length | 20 seconds |
-| Person | Creator 01, to be confirmed (a real user who has used the product) |
-| Scene | Sofa at home, afternoon window light |
-| Energy | Calm confession, then relief |
-| Camera | Phone propped on the coffee table, chest-up framing |
-| Music | Soft pop or lo-fi, about 90 BPM (1 beat ≈ 0.67s) |
+| 系列 | A 睫毛困擾共鳴(節奏最慢,最像聊天) |
+| 片長 | 20 秒 |
+| 人物 | Creator 01,待確認(必須是真的用過產品的人) |
+| 場景 | 家裡沙發,下午窗光 |
+| 情緒 | 平靜坦白,最後放鬆 |
+| 拍法 | 手機架在茶几上,胸口以上 |
+| 音樂 | 柔和流行或 lo-fi,約 90 BPM(1 拍約 0.67 秒) |
 
-> The story details are a draft. Before filming, replace them with Creator 01's own real experience (how long she had extensions and what her lashes looked like after). Testimonials must come from her own words.
+> 故事細節是草稿。拍攝前,請換成 Creator 01 自己的真實經歷,例如她接睫毛多久、拆掉後睫毛的樣子。心得必須是她自己的話。
 
 ---
 
-## 1. Script (English, about 50 words)
+## 1. 口播稿(英文,約 50 字)
 
-| Time | Section | Spoken line |
+| 時間 | 段落 | 口播 |
 |---|---|---|
-| 0-3s | HOOK | I ruined my natural lashes. |
-| 3-8s | STORY | Okay so... two years of extensions. When they came off, my lashes looked so thin and patchy. |
-| 8-16s | EXPERIENCE | Now I keep it simple. One swipe of my lash serum every night. It feels gentle, and honestly? I like my natural lashes again. |
-| 16-20s | CTA | If you're ending your extension era too, find it on the La Shaunnie website. |
+| 0~3 秒 | HOOK | I ruined my natural lashes. |
+| 3~8 秒 | 故事 | Okay so... two years of extensions. When they came off, my lashes looked so thin and patchy. |
+| 8~16 秒 | 體驗 | Now I keep it simple. One swipe of my lash serum every night. It feels gentle, and honestly? I like my natural lashes again. |
+| 16~20 秒 | CTA | If you're ending your extension era too, find it on the La Shaunnie website. |
 
-Alternate hooks to test (same video, swap only the first 3 seconds):
+備用 Hook(只換前 3 秒,可拿來測試):
 - My lash extensions cost me more than money.
 - Nobody told me what happens after extensions.
 
-Rule check: no promises of growth, length or thickness. "Looked thin" describes her before state, and "like my natural lashes again" is her own feeling. Passes.
+合規檢查:沒有承諾變長、變濃或增生。「looked thin」是描述她使用前的狀態,「like my natural lashes again」是她自己的感受。通過。
 
 ---
 
-## 2. Captions (word-by-word highlight, max 5 words per line)
+## 2. 字幕(逐字高亮,每行最多約 5 個字)
 
 ```
 I ruined my natural lashes.
@@ -52,70 +52,70 @@ find it on the
 La Shaunnie website.
 ```
 
-Italic serif keywords: *ruined*, *thin and patchy*, *simple*, *every night*, *again*
+換成斜體襯線的關鍵字:*ruined*、*thin and patchy*、*simple*、*every night*、*again*
 
 ---
 
-## 3. Shot list
+## 3. 分鏡
 
-| # | Shot | Length | Notes |
+| # | 畫面 | 長度 | 備註 |
 |---|---|---|---|
-| S1 | Sitting on the sofa, sighs, looks up at the lens | 3s | First frame must have motion (dropping a hand / looking up), no static face |
-| S2 | Talking head, telling the extension story | 3s | Chest up, 100% scale |
-| S3 | Lash macro: her lashes now, no makeup | 2s | Natural light, no filter |
-| S4 | Talking head, "Now I keep it simple" | 2s | Punch in to 110% |
-| S5 | Takes the serum out of a pouch or drawer | 1.5s | First product reveal |
-| S6 | Lash macro: one swipe of serum along the lash line | 2s | Real application footage |
-| S7 | Talking head, smiling, "I like my natural lashes again" | 2.5s | Back to 100% |
-| S8 | Talking head with the box in hand, CTA | 2s | Box name can be on screen |
-| S9 | End card | 2s | LA SHAUNNIE logo + website URL |
+| S1 | 坐在沙發上,嘆氣後抬頭看鏡頭 | 3 秒 | 第一格要有動作(放下手、抬頭),不能是靜止的臉 |
+| S2 | 口播,講接睫毛的經歷 | 3 秒 | 胸口以上,100% |
+| S3 | 睫毛特寫:她現在的睫毛,素顏 | 2 秒 | 自然光,不開濾鏡 |
+| S4 | 口播「Now I keep it simple」 | 2 秒 | 推近到 110% |
+| S5 | 從化妝包或抽屜拿出產品 | 1.5 秒 | 產品第一次出現 |
+| S6 | 睫毛特寫:沿睫毛根部刷一下 | 2 秒 | 真實使用畫面 |
+| S7 | 口播,微笑說「I like my natural lashes again」 | 2.5 秒 | 回到 100% |
+| S8 | 手拿外盒口播 CTA | 2 秒 | 外盒名稱可以入鏡 |
+| S9 | 結尾字卡 | 2 秒 | LA SHAUNNIE logo + 官網網址 |
 
-Shot mix: talking head about 70%, lash macro about 20%, product about 10%.
-
----
-
-## 4. Edit decision list (EDL)
-
-```
-TIME        SHOT  CAPTION / CARD                          EFFECT / SOUND
-0.0-0.7     S1    HOOK CARD: "I ruined my natural lashes." sighs and looks up; card visible from frame 1
-                  (large italic serif, beige brush band     beat 1: keyword zoom on "ruined" (0.15s to 125%)
-                   sub line: "my extension story")
-0.7-3.0     S1    word-by-word captions start               music at full volume, then duck as speech begins
-3.0-5.3     S2    Okay so... / two years of extensions.     soft whoosh into the cut (on beat)
-5.3-8.0     S3    When they came off, / ...thin and patchy. "thin and patchy" in italic serif, no ding
-8.0-10.0    S4    Now I keep it simple.                     cut to 110%, on beat
-10.0-11.3   S5    One swipe of my                           SPARKLE once (first product reveal) + DING #1 + music lifts
-11.3-13.3   S6    lash serum every night.                   "every night" pop text
-13.3-16.0   S7    It feels gentle, / ...natural lashes again. DING #2 on "again" + keyword zoom
-16.0-18.0   S8    If you're ending your extension era too,  soft whoosh
-18.0-20.0   S9    END CARD: LA SHAUNNIE / website URL        DING #3 on logo appearance; music fades out
-```
-
-Dings used: 3 (the maximum). All cuts land on beats; 2-3 seconds per shot on average.
-Loudness: about -14 LUFS, music ducked under speech, lifted on the product reveal at 10.0s.
+畫面比例:口播約 70%、睫毛特寫約 20%、產品約 10%。
 
 ---
 
-## 5. Asset checklist (✗ = missing, ✓ = received)
+## 4. 剪輯時間軸
 
-| Status | Asset | Spec |
+```
+時間        分鏡  字幕/字卡                                特效/音效
+0.0-0.7     S1    HOOK 字卡「I ruined my natural lashes.」  嘆氣抬頭,第一格就有字卡
+                  (大斜體襯線,米色筆刷底                  第 1 拍:「ruined」關鍵字放大(0.15 秒到 125%)
+                   副標「my extension story」)
+0.7-3.0     S1    逐字字幕開始                             音樂先正常音量,開口後壓低
+3.0-5.3     S2    Okay so... / two years of extensions.    剪點上輕風聲(壓拍)
+5.3-8.0     S3    When they came off, / ...thin and patchy. 「thin and patchy」斜體,不用叮
+8.0-10.0    S4    Now I keep it simple.                    切到 110%,壓拍
+10.0-11.3   S5    One swipe of my                          閃光一次(產品首次出現)+ 叮 #1 + 音樂推高
+11.3-13.3   S6    lash serum every night.                  「every night」彈出文字
+13.3-16.0   S7    It feels gentle, / ...natural lashes again. 「again」叮 #2 + 關鍵字放大
+16.0-18.0   S8    If you're ending your extension era too, 輕風聲
+18.0-20.0   S9    結尾字卡:LA SHAUNNIE / 官網網址          logo 出現時叮 #3,音樂淡出
+```
+
+「叮」共 3 次(上限)。所有剪點都壓在節拍上,平均每個畫面 2~3 秒。
+音量:約 -14 LUFS,口播時音樂壓低,10.0 秒產品出現時推高。
+
+---
+
+## 5. 素材清單(✗ = 缺少,✓ = 已收到)
+
+| 狀態 | 素材 | 規格 |
 |---|---|---|
-| ✗ | Creator 01 identity and consent to publish | Real user; written consent to use her face and story |
-| ✗ | Is she paid or gifted? | If yes, the post needs a paid partnership label |
-| ✗ | Her real story details | Replaces "two years" and "thin and patchy" in the script |
-| ✗ | S1, S2, S4, S7, S8 talking head raw clips | Vertical 9:16, 30fps, clean audio (lav mic preferred) |
-| ✗ | S3, S6 lash macros | Natural light, no beauty filter, 2-3s each |
-| ✗ | S5 product reveal shot | Bottle or box, 1-2s |
-| ✗ | Music file | Commercial-use rights, about 90 BPM, not Instagram library audio |
-| ✗ | Sound effects | Ding, soft whoosh, sparkle |
-| ✗ | Logo | Transparent PNG |
-| ✗ | Font names + hex codes | Italic serif / sans / cream, brown, gold |
-| ✗ | Official website URL | For the end card |
+| ✗ | Creator 01 是誰,以及她的發布同意 | 真實用戶,書面同意使用她的臉和故事 |
+| ✗ | 她有沒有收到報酬或免費產品 | 有的話,貼文要標示合作關係 |
+| ✗ | 她的真實故事細節 | 取代腳本裡的「two years」和「thin and patchy」 |
+| ✗ | S1、S2、S4、S7、S8 口播原始檔 | 直式 9:16、30fps、聲音乾淨(最好用領夾麥克風) |
+| ✗ | S3、S6 睫毛特寫 | 自然光、不開美顏,各 2~3 秒 |
+| ✗ | S5 產品出現畫面 | 單支產品或外盒,1~2 秒 |
+| ✗ | 音樂檔 | 可商用,約 90 BPM,不能用 Instagram 內建音樂 |
+| ✗ | 音效 | 叮、輕風聲、閃光 |
+| ✗ | Logo | 透明背景 PNG |
+| ✗ | 字體名稱和色碼 | 斜體襯線、無襯線;奶油白、咖啡色、金色 |
+| ✗ | 官網網址 | 放在結尾字卡 |
 
 ---
 
-## 6. Deliverables (after the edit)
+## 6. 剪完後交付
 
-- `01-ruined-my-lashes.mp4`: 1080x1920, 30fps, -14 LUFS
-- `01-ruined-my-lashes.srt`: English captions
+- `01-ruined-my-lashes.mp4`:1080×1920、30fps、-14 LUFS
+- `01-ruined-my-lashes.srt`:英文字幕檔
