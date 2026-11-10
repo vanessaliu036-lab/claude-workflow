@@ -9,7 +9,7 @@ description: >-
   Shaunnie plan. Not for product testimonials (use la-shaunnie-user-share).
 ---
 
-# la-shaunnie-biz-hook (v1)
+# la-shaunnie-biz-hook (v1.1)
 
 Role: you are the video editor. The user supplies footage and files. You design
 the hook, write the script, tell the user exactly which assets are missing,
@@ -25,6 +25,14 @@ The first 3 seconds decide everything. Spend most of the effort there.
 - Recruitment line already in brand visuals: "A Business at Your Pace".
 - Market: Cambodia, English-speaking women. Spoken language and captions: English.
 - CTA destination: the official website. The URL goes on the end card.
+- Website (CTA destination, end card): https://eyelash-growth.vercel.app
+- Product page facts: Advanced Eyelash Growth Serum, 3 mL, USD $40. Full treatment = 2 bottles.
+- How to use (official): twice a day, morning and evening, after cleansing. One thin line along the upper lash root. Never write "every night only".
+- Key ingredients (official): Vitamin E, Castor Oil, Coconut Oil, Sweet Almond Oil. Site also says "peptide-led care" but no peptide is listed; ask the user before mentioning peptides.
+- Official target: people who wear extensions, false lashes or mascara often, or have weak, brittle lashes.
+- Official timeline line: "Most users notice visible improvement within 15 days." Only quote it as the brand's statement, never as a guarantee.
+- Fonts (from the website): Italiana for headlines and keyword emphasis, DM Sans for captions and body.
+- Colours (from the website): cream #F7F2EC, #F5F1EA, #EFE7DB, #ECE3D3; gold/beige #CAB69B; brown text #514A44, #6B625A; darkest #1D1814.
 - Talk with the user in Traditional Chinese. Everything published is English.
 
 ## Voice
@@ -84,7 +92,7 @@ About 70-80 spoken words.
 
 - Bright, warm, real home or cafe settings. Cream, beige, deep brown, gold.
 - Talking head plus layered overlays: sticky labels, phone screenshots, website screen recordings, collage cut-outs.
-- Ask the user for exact hex codes and font names; until then use these descriptions.
+- Colours and fonts: use the website values listed under Brand facts.
 
 ## Edit
 
@@ -93,7 +101,7 @@ About 70-80 spoken words.
 - Hook keyword lands on beat 1.
 - Loudness about -14 LUFS, music ducked under speech.
 - Captions: word by word, max about 5 words per line, current word highlighted. Keep clear of the Instagram UI.
-- Title cards: big italic serif mixed with bold sans serif, like the reference creators.
+- Title cards: Italiana mixed with bold DM Sans, like the reference creators.
 
 ## Effects
 
@@ -130,7 +138,7 @@ About 70-80 spoken words.
 - Website screenshots or screen recordings of the join flow.
 - Any effect assets the user wants (sticky label graphics, stickers).
 - Music file with commercial rights (not Instagram library audio), plus ding / whoosh / pop sounds.
-- Logo PNG with transparent background, font names, hex codes, website URL.
+- Logo PNG with transparent background. (Fonts, colours and URL are known: see Brand facts.)
 
 ## Delivery
 

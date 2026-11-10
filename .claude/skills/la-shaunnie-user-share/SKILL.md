@@ -9,7 +9,7 @@ description: >-
   la-shaunnie-biz-hook).
 ---
 
-# la-shaunnie-user-share (v1)
+# la-shaunnie-user-share (v1.1)
 
 Role: you are the video editor. The user supplies footage and files. You write
 the script, tell the user exactly which assets are missing, then cut to the
@@ -25,6 +25,14 @@ music beat and add captions, effects and title cards.
   Elegant Natural Look.
 - Market: Cambodia, English-speaking women. Spoken language and captions: English.
 - CTA destination: the official website. The URL goes on the end card.
+- Website (CTA destination, end card): https://eyelash-growth.vercel.app
+- Product page facts: Advanced Eyelash Growth Serum, 3 mL, USD $40. Full treatment = 2 bottles.
+- How to use (official): twice a day, morning and evening, after cleansing. One thin line along the upper lash root. Never write "every night only".
+- Key ingredients (official): Vitamin E, Castor Oil, Coconut Oil, Sweet Almond Oil. Site also says "peptide-led care" but no peptide is listed; ask the user before mentioning peptides.
+- Official target: people who wear extensions, false lashes or mascara often, or have weak, brittle lashes.
+- Official timeline line: "Most users notice visible improvement within 15 days." Only quote it as the brand's statement, never as a guarantee.
+- Fonts (from the website): Italiana for headlines and keyword emphasis, DM Sans for captions and body.
+- Colours (from the website): cream #F7F2EC, #F5F1EA, #EFE7DB, #ECE3D3; gold/beige #CAB69B; brown text #514A44, #6B625A; darkest #1D1814.
 - Talk with the user in Traditional Chinese. Everything published is English.
 
 ## What this format is
@@ -54,7 +62,7 @@ Change every video: person, location, outfit, time of day, energy, camera setup
 | 04 | Confidence without makeup | What if you stopped wearing mascara? | Walking outside | Easy |
 | 05 | 15-day diary | Here's my 15-day lash diary. | Vanity, Day counter | Diary |
 | 06 | I didn't believe in serums | I thought lash serums were a scam. | Sofa | Excited |
-| 07 | One-minute night habit | One minute changed my beauty routine. | Bedside | Relaxed |
+| 07 | One-minute daily habit (morning and night) | One minute changed my beauty routine. | Bathroom mirror in the morning, bedside at night | Relaxed |
 | 08 | Going out bare-faced | No extensions. No mascara. Just me. | Cafe or shopping | Happy |
 | 09 | Do you need a serum | Do you actually need a lash serum? | Cafe table | Chatting |
 | 10 | More is not better | More serum doesn't mean better results. | Vanity, demo | Gentle warning |
@@ -80,7 +88,7 @@ sounds real ("okay so", "honestly", "here's what I noticed").
 ## Look
 
 - Phone, vertical, natural window light, bright and warm, no heavy beauty filter.
-- Colours: cream, beige, deep brown text, gold accents. Ask the user for exact hex codes and font names; until then use these descriptions.
+- Colours and fonts: use the website values listed under Brand facts.
 - Shot mix: about 70% talking head (chest up), 20% lash macro, 10% product and lifestyle B-roll.
 - Alternate the talking head between 100% and 110% scale on cuts so the face never sits static.
 
@@ -91,8 +99,8 @@ sounds real ("okay so", "honestly", "here's what I noticed").
 - Voice on top. Duck music under speech; lift it on the product reveal.
 - Loudness about -14 LUFS.
 - Captions: word by word, max about 5 words per line, current word highlighted in gold or brown. Keep clear of the Instagram UI at the top and bottom.
-- Key words switch to italic serif; everything else clean sans serif.
-- Hook card at 0s: large italic serif headline, sub line on a beige brush stroke band (same as the brand banner).
+- Key words switch to Italiana; everything else DM Sans.
+- Hook card at 0s: large Italiana headline, sub line on a beige brush stroke band (same as the brand banner).
 
 ## Effects (restrained)
 
@@ -130,7 +138,7 @@ sounds real ("okay so", "honestly", "here's what I noticed").
 - Lifestyle B-roll for the scene.
 - Before/after photos with Day labels and consent (only if the video uses them).
 - Music file the user has the right to use commercially (not Instagram library audio), plus ding / whoosh / pop sound effects.
-- Logo PNG with transparent background, font names, hex codes, website URL.
+- Logo PNG with transparent background. (Fonts, colours and URL are known: see Brand facts.)
 
 ## Delivery
 

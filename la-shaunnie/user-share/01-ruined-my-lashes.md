@@ -20,7 +20,7 @@
 |---|---|---|
 | 0~3 秒 | HOOK | I ruined my natural lashes. |
 | 3~8 秒 | 故事 | Okay so... two years of extensions. When they came off, my lashes looked so thin and patchy. |
-| 8~16 秒 | 體驗 | Now I keep it simple. One swipe of my lash serum every night. It feels gentle, and honestly? I like my natural lashes again. |
+| 8~16 秒 | 體驗 | Now I keep it simple. One thin line of my lash serum, morning and night. It feels gentle, and honestly? I like my natural lashes again. |
 | 16~20 秒 | CTA | If you're ending your extension era too, find it on the La Shaunnie website. |
 
 備用 Hook(只換前 3 秒,可拿來測試):
@@ -41,8 +41,9 @@ When they came off,
 my lashes looked so
 thin and patchy.
 Now I keep it simple.
-One swipe of my
-lash serum every night.
+One thin line of my
+lash serum,
+morning and night.
 It feels gentle,
 and honestly?
 I like my natural lashes again.
@@ -52,7 +53,7 @@ find it on the
 La Shaunnie website.
 ```
 
-換成斜體襯線的關鍵字:*ruined*、*thin and patchy*、*simple*、*every night*、*again*
+換成 Italiana 字體的關鍵字:*ruined*、*thin and patchy*、*simple*、*morning and night*、*again*
 
 ---
 
@@ -65,7 +66,7 @@ La Shaunnie website.
 | S3 | 睫毛特寫:她現在的睫毛,素顏 | 2 秒 | 自然光,不開濾鏡 |
 | S4 | 口播「Now I keep it simple」 | 2 秒 | 推近到 110% |
 | S5 | 從化妝包或抽屜拿出產品 | 1.5 秒 | 產品第一次出現 |
-| S6 | 睫毛特寫:沿睫毛根部刷一下 | 2 秒 | 真實使用畫面 |
+| S6 | 睫毛特寫:沿上睫毛根部畫一條細線(官網用法) | 2 秒 | 真實使用畫面 |
 | S7 | 口播,微笑說「I like my natural lashes again」 | 2.5 秒 | 回到 100% |
 | S8 | 手拿外盒口播 CTA | 2 秒 | 外盒名稱可以入鏡 |
 | S9 | 結尾字卡 | 2 秒 | LA SHAUNNIE logo + 官網網址 |
@@ -79,17 +80,17 @@ La Shaunnie website.
 ```
 時間        分鏡  字幕/字卡                                特效/音效
 0.0-0.7     S1    HOOK 字卡「I ruined my natural lashes.」  嘆氣抬頭,第一格就有字卡
-                  (大斜體襯線,米色筆刷底                  第 1 拍:「ruined」關鍵字放大(0.15 秒到 125%)
+                  (大字 Italiana,米色筆刷底                  第 1 拍:「ruined」關鍵字放大(0.15 秒到 125%)
                    副標「my extension story」)
 0.7-3.0     S1    逐字字幕開始                             音樂先正常音量,開口後壓低
 3.0-5.3     S2    Okay so... / two years of extensions.    剪點上輕風聲(壓拍)
 5.3-8.0     S3    When they came off, / ...thin and patchy. 「thin and patchy」斜體,不用叮
 8.0-10.0    S4    Now I keep it simple.                    切到 110%,壓拍
-10.0-11.3   S5    One swipe of my                          閃光一次(產品首次出現)+ 叮 #1 + 音樂推高
-11.3-13.3   S6    lash serum every night.                  「every night」彈出文字
+10.0-11.3   S5    One thin line of my                          閃光一次(產品首次出現)+ 叮 #1 + 音樂推高
+11.3-13.3   S6    lash serum, / morning and night.        「morning and night」彈出文字
 13.3-16.0   S7    It feels gentle, / ...natural lashes again. 「again」叮 #2 + 關鍵字放大
 16.0-18.0   S8    If you're ending your extension era too, 輕風聲
-18.0-20.0   S9    結尾字卡:LA SHAUNNIE / 官網網址          logo 出現時叮 #3,音樂淡出
+18.0-20.0   S9    結尾字卡:LA SHAUNNIE / eyelash-growth.vercel.app          logo 出現時叮 #3,音樂淡出
 ```
 
 「叮」共 3 次(上限)。所有剪點都壓在節拍上,平均每個畫面 2~3 秒。
@@ -110,8 +111,8 @@ La Shaunnie website.
 | ✗ | 音樂檔 | 可商用,約 90 BPM,不能用 Instagram 內建音樂 |
 | ✗ | 音效 | 叮、輕風聲、閃光 |
 | ✗ | Logo | 透明背景 PNG |
-| ✗ | 字體名稱和色碼 | 斜體襯線、無襯線;奶油白、咖啡色、金色 |
-| ✗ | 官網網址 | 放在結尾字卡 |
+| ✓ | 字體名稱和色碼 | 標題與關鍵字 Italiana、字幕 DM Sans;奶油白 #F7F2EC、米金 #CAB69B、咖啡字 #514A44 |
+| ✓ | 官網網址 | https://eyelash-growth.vercel.app |
 
 ---
 
