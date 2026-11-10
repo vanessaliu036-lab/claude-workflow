@@ -1,6 +1,6 @@
 # Voice profile (read this before writing any Instagram content)
 
-Two brands. Ask which one if the request does not say. Never mix them.
+Three brands (OCC, Arunera, La Shaunnie). Ask which one if the request does not say. Never mix them.
 Published text (scripts, captions, on-screen text, DMs): English only.
 Chat with Vanessa: Traditional Chinese.
 
@@ -29,3 +29,8 @@ Example: "Cambodia grows this. The Mondulkiri highlands, where altitude and red 
 
 ## Do not reference
 KHMERÉ and AI-EMS (inactive).
+
+## La Shaunnie — lash serum, Cambodia, English-speaking women
+Two video styles, each with its own skill. Follow the skill for voice and rules:
+- Product / user testimonials: `.claude/skills/la-shaunnie-user-share/SKILL.md`
+- Agent recruitment: `.claude/skills/la-shaunnie-biz-hook/SKILL.md`
